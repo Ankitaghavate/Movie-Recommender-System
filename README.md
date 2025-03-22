@@ -12,19 +12,24 @@ A **Movie Recommender System** built using **Machine Learning, Streamlit, and TM
 - **Python** (pandas, numpy, scikit-learn)  
 - **Streamlit** (for UI)  
 - **TMDB API** (for fetching posters)  
-- **Pickle** (to save ML model)
+- **Pickle** (to save ML model)  
 
 ## 🚀 Live Demo on Hugging Face  
 
 Check out the live version of the Movie Recommender System:  
-👉 Try it on Hugging Face:- https://huggingface.co/spaces/ghavateankita/Movie-Recommender-System?logs=container
+👉 [Try it on Hugging Face](https://huggingface.co/spaces/ghavateankita/Movie-Recommender-System?logs=container)  
 
 ## 🎯 How to Run Locally
+
+### 1️⃣ Clone the Repository
 ```bash
 # Clone the repository
 git clone https://github.com/your-username/Movie-Recommender-System.git
 cd Movie-Recommender-System
+```
 
+### 2️⃣ Create and Activate a Virtual Environment
+```bash
 # Create a virtual environment
 python -m venv env
 
@@ -33,9 +38,13 @@ python -m venv env
 env\Scripts\activate
 # On macOS/Linux
 source env/bin/activate
+```
 
-# Install dependencies
+### 3️⃣ Install Dependencies
+```bash
 pip install -r requirements.txt
+```
 
-# Run the Streamlit app
+### 4️⃣ Run the Streamlit Application
+```bash
 streamlit run app.py
