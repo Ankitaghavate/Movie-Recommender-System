@@ -22,17 +22,17 @@ A **Movie Recommender System** built using **Machine Learning, Streamlit, and TM
 ```
 
 
-# Create a virtual environment
+## Create a virtual environment
 ```bash python -m venv env```
 
-# Activate the virtual environment
-# On Windows
+## Activate the virtual environment
+## On Windows
  ```bash env\Scripts\activate```
-# On macOS/Linux
+## On macOS/Linux
 ```bash source env/bin/activate```
 
-# Install dependencies
+## Install dependencies
 bash``` pip install -r requirements.txt```
 
-# Run the Streamlit app
+## Run the Streamlit app
 ``` bash streamlit run app.py```
