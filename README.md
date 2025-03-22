@@ -12,7 +12,13 @@ A **Movie Recommender System** built using **Machine Learning, Streamlit, and TM
 - **Python** (pandas, numpy, scikit-learn)  
 - **Streamlit** (for UI)  
 - **TMDB API** (for fetching posters)  
-- **Pickle** (to save ML model)  
+- **Pickle** (to save ML model)
+
+## 🚀 Live Demo on Hugging Face  
+
+Check out the live version of the Movie Recommender System:  
+👉 Try it on Hugging Face:- https://huggingface.co/spaces/your-username/movie-recommender](https://huggingface.co/spaces/ghavateankita/Movie-Recommender-System?logs=container
+
 ## 🎯 How to Run Locally
 ```bash
 # Clone the repository
