@@ -15,23 +15,24 @@ A **Movie Recommender System** built using **Machine Learning, Streamlit, and TM
 - **Pickle** (to save ML model)  
 
 ## 🎯 How to Run Locally
-```bash
-# Clone the repository
-git clone https://github.com/your-username/Movie-Recommender-System.git
-cd Movie-Recommender-System
+  ```bash
+    # Clone the repository
+    git clone https://github.com/your-username/Movie-Recommender-System.git
+    cd Movie-Recommender-System
+```
 
 
 # Create a virtual environment
-python -m venv env
+```bash python -m venv env```
 
 # Activate the virtual environment
 # On Windows
-env\Scripts\activate
+ ```bash env\Scripts\activate```
 # On macOS/Linux
-source env/bin/activate
+```bash source env/bin/activate```
 
 # Install dependencies
-pip install -r requirements.txt
+bash``` pip install -r requirements.txt```
 
 # Run the Streamlit app
-streamlit run app.py
+``` bash streamlit run app.py```
