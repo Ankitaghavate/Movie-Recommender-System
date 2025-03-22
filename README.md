@@ -17,7 +17,7 @@ A **Movie Recommender System** built using **Machine Learning, Streamlit, and TM
 ## 🚀 Live Demo on Hugging Face  
 
 Check out the live version of the Movie Recommender System:  
-👉 Try it on Hugging Face:- https://huggingface.co/spaces/your-username/movie-recommender](https://huggingface.co/spaces/ghavateankita/Movie-Recommender-System?logs=container
+👉 Try it on Hugging Face:- https://huggingface.co/spaces/ghavateankita/Movie-Recommender-System?logs=container
 
 ## 🎯 How to Run Locally
 ```bash
